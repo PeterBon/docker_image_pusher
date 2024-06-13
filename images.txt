@@ -1,1 +1,1 @@
-nginx:1.27.0
+openjdk:17.0.2-oraclelinux8
