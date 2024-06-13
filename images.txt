@@ -1,1 +1,1 @@
-openjdk:17.0.2-oraclelinux8
+minio/minio:RELEASE.2024-06-11T03-13-30Z
