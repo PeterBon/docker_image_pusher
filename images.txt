@@ -1,1 +1,1 @@
---platform=linux/arm64 nginx:1.27.0
+--platform=linux/arm64 redis:7.0.15
