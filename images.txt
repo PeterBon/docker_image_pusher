@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 openjdk:17.0.2-oraclelinux8
+--platform=linux/arm64 portainer/portainer-ce:2.20.3
